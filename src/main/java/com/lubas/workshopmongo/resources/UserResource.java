@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
+import com.lubas.workshopmongo.domain.Post;
 import com.lubas.workshopmongo.domain.User;
 import com.lubas.workshopmongo.dto.UserDTO;
 import com.lubas.workshopmongo.services.UserService;
